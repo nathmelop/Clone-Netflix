@@ -83,12 +83,13 @@ header nav a:hover {
     cursor: pointer;
     /*Pequeno delay ao passar o mouse*/
     transition: .3s ease all;
+    text-decoration: none;
 }
 
 .botao:hover {
     /*inverte a cor ao passar o mouse*/
     background-color: rgb(0, 0, 0);
-    color: rgb(80, 68, 68);
+    color: rgb(212, 209, 209);
 }
 
 .botao i {
