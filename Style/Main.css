@@ -35,14 +35,14 @@ header .logo {
 
 header nav a {
     text-decoration: none;
-    color: rgb(255, 0, 0);
+    color: #aaa;
     margin-right: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header nav a:hover {
     /* muda a cor quando passa o mouse em cima */
-    color: rgb(172, 20, 20);
+    color: rgb(216, 6, 6);
     text-decoration: nonex x x;
 }
 
