@@ -82,7 +82,7 @@ header nav a:hover {
     font-family: Arial;
     border-radius: 5%;
     border: none;
-    color: rgba(0, 0, 0, 0.829);
+    color: rgba(0, 0, 0, 0);
     padding: 15px 30px;
     margin-right: 5px;
     font-size: 12px;
@@ -95,8 +95,8 @@ header nav a:hover {
 .botao:hover {
     text-decoration: none;
     /*inverte a cor ao passar o mouse*/
-    background-color: rgb(37, 36, 36);
-    color: rgb(212, 209, 209);
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
 }
 
 .botao i {
